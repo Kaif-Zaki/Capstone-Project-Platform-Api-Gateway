@@ -2,7 +2,7 @@
 
 A reactive API Gateway built with Spring Cloud Gateway (WebFlux). It serves as the single entry point for all client requests, routing traffic to the appropriate microservices discovered via the Service-Registry.
 
-## About m
+## About 
 
 This project is part of the Enterprise Cloud Application (ECA) module in the Higher Diploma in Software Engineering (HDSE) program at the Institute of Software Engineering (IJSE). It is intended exclusively for students enrolled in this program.
 
