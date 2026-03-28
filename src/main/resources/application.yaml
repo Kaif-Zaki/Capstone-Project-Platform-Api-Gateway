@@ -4,7 +4,7 @@ spring:
 
 
   config:
-    #    fail-fast
+    #    fail-fast no needd since we have a fallback in the gateway
     import: "configserver:"
 
   cloud:
